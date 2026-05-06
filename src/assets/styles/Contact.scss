@@ -51,3 +51,5 @@ form {
 .MuiInputBase-input { color: #050f0b !important; }
 
 .MuiOutlinedInput-input, .MuiInputBase-inputMultiline { color: #050f0b !important; background-color: white !important; }
+
+.MuiOutlinedInput-root { background-color: white !important; } .MuiOutlinedInput-root input, .MuiOutlinedInput-root textarea { color: #050f0b !important; caret-color: #050f0b !important; }
